@@ -1,0 +1,23 @@
+.img {
+    height: auto;
+    width: 300px;
+}
+
+li {
+    color: blue;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+h4,
+p {
+    color: red;
+}
+
+.unorder .optional {
+    color: black;
+}

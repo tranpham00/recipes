@@ -1,0 +1,27 @@
+
+.header {
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: light;
+}
+
+.title.header {
+    font-size: 36px;
+}
+
+.img {
+    height: auto;
+    width: 450px;
+}
+
+li {
+    color: red;
+}
+
+h4,
+p {
+    color: blue;
+}
