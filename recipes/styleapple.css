@@ -1,16 +1,19 @@
 .img {
     height: auto;
     width: 300px;
+    padding-left: 36px;
 }
 
 li {
     color: blue;
+    margin: 8px;
 }
 
 .header {
     text-align: center;
     color: white;
     background-color: black;
+    border: 3px solid rgb(202, 87, 255);
 }
 
 h4,
